@@ -1,2 +1,2 @@
-Name:Angad
-CCID:Alamba2
+Name: Angad Lamba
+CCID: Alamba2
