@@ -1,2 +1,2 @@
-Name: Nicholas Elaschuk /n
+Name: Nicholas Elaschuk
 ccid: neelasch
